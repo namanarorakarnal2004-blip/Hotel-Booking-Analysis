@@ -57,6 +57,12 @@ data to uncover cancellation drivers and seasonal demand patterns.
 
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-orange)
 
+### ✅ Week 3 — Predictive Modeling (Churn Prediction)
+- Logistic Regression model built using Scikit-Learn
+- Model Accuracy: 69.42%
+- ROC-AUC Score: 0.73
+- Train-Test Split: 80/20
+- Features used: lead_time, total_nights, total_guests, previous_cancellations, booking_changes, ADR, days_in_waiting_list
 
 
 ---
