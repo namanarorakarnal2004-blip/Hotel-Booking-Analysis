@@ -120,6 +120,10 @@ data to uncover cancellation drivers and seasonal demand patterns.
 
 ![Power BI Dashboard](Screenshot%20(184).png)
 
+## 📊 Power BI Dashboard
+
+![Power BI Dashboard](1000236629.png)
+
   ### 🏆 Week 4 Outcome
 
 - Designed a professional Power BI dashboard for hotel booking analysis.
