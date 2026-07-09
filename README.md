@@ -57,42 +57,61 @@ data to uncover cancellation drivers and seasonal demand patterns.
 
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-orange)
 
-### ✅ Week 3 — Predictive Modeling (Churn Prediction)
-- Logistic Regression model built using Scikit-Learn
-- Model Accuracy: 69.42%
-- ROC-AUC Score: 0.73
-- Train-Test Split: 80/20
-- Features used: lead_time, total_nights, total_guests, previous_cancellations, booking_changes, ADR, days_in_waiting_list
-- Built a Logistic Regression model using Scikit-Learn.
-- Predicted hotel booking cancellations using historical booking data.
-- Achieved 69.42% Model Accuracy.
-- Obtained ROC-AUC Score: 0.73.
-- Performed 80:20 Train-Test Split.
-- Selected key features:
-- Lead Time
-- ADR
-- Total Nights
-- Total Guests
-- Previous Cancellations
-- Booking Changes
-- Days in Waiting List
-- Evaluated model performance using confusion matrix and classification metrics.
+## ✅ Week 3 — Predictive Modeling (Hotel Booking Cancellation)
 
-  Week 4 — Power BI Dashboard & Business Intelligence
-- Designed an interactive Hotel Booking Analysis Dashboard using Power BI.
-- Created KPI Cards for:
-       - Total Bookings
-       - Cancelled Bookings
-       - Non-Cancelled Bookings
-       - Cancellation Rate
-- Built interactive visualizations:
-       - Monthly Cancelled Bookings Trend (Line Chart)
-       - Cancelled Bookings by Hotel Type (Bar Chart)
-       - Bookings by Customer Type (Donut Chart)
-       - Cancelled Bookings by Market Segment (Column Chart)
-- Added interactive Slicers for Hotel Type, Market Segment, and Arrival Day.
-- Applied professional dashboard formatting with aligned visuals, borders, consistent color theme, and responsive layout.
-- Generated business insights to support hotel booking and cancellation analysis.
+- 🤖 Built a *Logistic Regression* model using Scikit-Learn.
+- 📊 Predicted hotel booking cancellations using historical booking data.
+- 🎯 Achieved *69.42% Model Accuracy*.
+- 📈 ROC-AUC Score: *0.73*.
+- 🔄 Applied *80:20 Train-Test Split* for model evaluation.
+- 📉 Evaluated model performance using:
+  - Confusion Matrix
+  - Classification Report
+  - ROC Curve
+- 🧹 Performed feature selection and preprocessing before model training.
+- 📌 Selected key features:
+  - Lead Time
+  - ADR (Average Daily Rate)
+  - Total Nights
+  - Total Guests
+  - Previous Cancellations
+  - Booking Changes
+  - Days in Waiting List
+- 💡 Generated predictive insights to identify customers with a higher probability of cancellation.
+
+
+  ## ✅ Week 4 — Interactive Power BI Dashboard
+
+- 📊 Built an interactive *Hotel Booking Analysis Dashboard* using Power BI.
+- 📌 Created KPI Cards:
+  - Total Bookings
+  - Cancelled Bookings
+  - Not Cancelled Bookings
+  - Cancellation Rate
+- 📈 Added interactive visualizations:
+  - Monthly Cancelled Bookings (Line Chart)
+  - Cancelled Bookings by Hotel Type (Bar Chart)
+  - Bookings by Customer Type (Donut Chart)
+  - Cancelled Bookings by Market Segment (Column Chart)
+- 🎛️ Implemented slicers for:
+  - Hotel Type
+  - Market Segment
+  - Arrival Day of Month
+- 🎨 Applied professional dashboard formatting:
+  - Consistent color theme
+  - KPI cards
+  - Chart borders
+  - Proper spacing & alignment
+  - Clean and responsive layout
+- ⚡ Improved dashboard usability with interactive filtering and cross-filtering.
+- 📈 Generated business insights to support hotel booking and cancellation analysis.
+
+  ### 🏆 Week 4 Outcome
+
+- Designed a professional Power BI dashboard for hotel booking analysis.
+- Improved data storytelling using interactive visuals and slicers.
+- Enhanced dashboard readability with clean formatting and layout.
+- Strengthened Power BI skills in dashboard design, visualization, and business reporting.
 
 ## 📊 Project Outcomes
 
