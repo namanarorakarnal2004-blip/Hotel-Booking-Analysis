@@ -63,9 +63,61 @@ data to uncover cancellation drivers and seasonal demand patterns.
 - ROC-AUC Score: 0.73
 - Train-Test Split: 80/20
 - Features used: lead_time, total_nights, total_guests, previous_cancellations, booking_changes, ADR, days_in_waiting_list
+- Built a Logistic Regression model using Scikit-Learn.
+- Predicted hotel booking cancellations using historical booking data.
+- Achieved 69.42% Model Accuracy.
+- Obtained ROC-AUC Score: 0.73.
+- Performed 80:20 Train-Test Split.
+- Selected key features:
+- Lead Time
+- ADR
+- Total Nights
+- Total Guests
+- Previous Cancellations
+- Booking Changes
+- Days in Waiting List
+- Evaluated model performance using confusion matrix and classification metrics.
 
+  Week 4 — Power BI Dashboard & Business Intelligence
+- Designed an interactive Hotel Booking Analysis Dashboard using Power BI.
+- Created KPI Cards for:
+       - Total Bookings
+       - Cancelled Bookings
+       - Non-Cancelled Bookings
+       - Cancellation Rate
+- Built interactive visualizations:
+       - Monthly Cancelled Bookings Trend (Line Chart)
+       - Cancelled Bookings by Hotel Type (Bar Chart)
+       - Bookings by Customer Type (Donut Chart)
+       - Cancelled Bookings by Market Segment (Column Chart)
+- Added interactive Slicers for Hotel Type, Market Segment, and Arrival Day.
+- Applied professional dashboard formatting with aligned visuals, borders, consistent color theme, and responsive layout.
+- Generated business insights to support hotel booking and cancellation analysis.
 
----
+## 📊 Project Outcomes
+
+- Identified booking cancellation patterns.
+- Built an interactive Power BI dashboard for business insights.
+- Developed a machine learning model to predict booking cancellations.
+- Improved data-driven decision making through visualization and predictive analytics.
+
+## 🛠️ Skills Gained
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- Power BI
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Machine Learning
+- Data Visualization
+
+  ## ⭐ Project Status
+
+✅ Completed
 
 ## 👤 Author
 *Naman Arora*
