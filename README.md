@@ -122,7 +122,7 @@ data to uncover cancellation drivers and seasonal demand patterns.
 
 ## 📊 Power BI Dashboard
 
-![Power BI Dashboard](1000236629.png)
+![Power BI Dashboard](Power%20BI%20File.jpeg)
 
   ### 🏆 Week 4 Outcome
 
