@@ -116,6 +116,10 @@ data to uncover cancellation drivers and seasonal demand patterns.
 - ⚡ Improved dashboard usability with interactive filtering and cross-filtering.
 - 📈 Generated business insights to support hotel booking and cancellation analysis.
 
+- ## 📊 Power BI Dashboard
+
+![Power BI Dashboard](Screenshot%20(184).png)
+
   ### 🏆 Week 4 Outcome
 
 - Designed a professional Power BI dashboard for hotel booking analysis.
