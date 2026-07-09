@@ -29,18 +29,28 @@ data to uncover cancellation drivers and seasonal demand patterns.
 ---
 
 ## 🗓️ Project Roadmap
+## ✅ Week 1 – Project Setup & Data Understanding
 
-### ✅ Week 1 — Data Cleaning & Feature Engineering
-- Handled missing values (agent, company, children, country)
-- Treated outliers in ADR column
-- Engineered features: total_nights, total_guests
+- Collected and explored the hotel booking dataset.
+- Imported essential libraries: Pandas, NumPy, Matplotlib, and Seaborn.
+- Loaded the dataset and examined its structure.
+- Checked for missing values and duplicate records.
+- Performed initial data cleaning and preprocessing.
+- Generated summary statistics and basic visualizations.
+- Understood booking trends and cancellation patterns.
 
-### ✅ Week 2 — EDA & Statistical Analysis
-- *Cancellation Rate: 37.04%*
-- Correlation heatmap across 32 variables
-- Monthly cancellation trend analysis
-- Lead time vs cancellation behavior
-  
+---
+
+## ✅ Week 2 – Data Preprocessing & Exploratory Data Analysis (EDA)
+
+- Cleaned the dataset by handling missing values and duplicates.
+- Encoded categorical variables for analysis.
+- Performed feature engineering where required.
+- Created visualizations using histograms, count plots, and heatmaps.
+- Analyzed correlations between key features.
+- Identified major factors influencing booking cancellations.
+- Prepared the final dataset for predictive modeling.
+
 
 ## 🛠️ Tech Stack
 
