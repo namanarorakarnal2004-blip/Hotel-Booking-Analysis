@@ -1,5 +1,5 @@
 # 🏨 Hotel Booking Analysis
-### Travel & Hospitality — Customer Retention & Dynamic Pricing Analysis
+## Travel & Hospitality — Customer Retention & Dynamic Pricing Analysis
 > Infotact Solutions & Co. | Internship Project 2 | 2026
 
 ---
